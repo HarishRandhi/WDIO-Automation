@@ -1,0 +1,87 @@
+{
+  "uid" : "f93e931d9e2c51d8",
+  "name" : "Then I shall be on the Flight Finder page",
+  "fullName" : "Perform login: Login with default user.Then I shall be on the Flight Finder page",
+  "historyId" : "fbd25c9bb4dd1e2d8221dc0913a033f7",
+  "time" : {
+    "start" : 1625328686597,
+    "stop" : 1625328686631,
+    "duration" : 34
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1625328686600,
+        "stop" : 1625328686626,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a4c26d4246ca7863",
+        "name" : "Response",
+        "source" : "a4c26d4246ca7863.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I shall be on the Flight Finder page"
+  }, {
+    "name" : "package",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.101"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f93e931d9e2c51d8.json",
+  "parameterValues" : [ "chrome-91.0.4472.101" ]
+}

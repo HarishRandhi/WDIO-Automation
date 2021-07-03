@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Given I'm on the login page",
+    "uid" : "fdcc469eda47e7e0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625328955535,
+      "stop" : 1625328959755,
+      "duration" : 4220
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.101" ]
+  }, {
+    "name" : "When I log in with a default user",
+    "uid" : "35f5bdc0dfe5d2c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625328959755,
+      "stop" : 1625328960995,
+      "duration" : 1240
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.101" ]
+  }, {
+    "name" : "Then I shall be on the Flight Finder page",
+    "uid" : "1f32b54152239edd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625328960996,
+      "stop" : 1625328961007,
+      "duration" : 11
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.101" ]
+  }, {
+    "name" : "",
+    "uid" : "7cb4269273bb423f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625328961007,
+      "stop" : 1625328961007,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.101" ]
+  }, {
+    "name" : "Login with default user",
+    "uid" : "cef393732c4867d1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625331452267,
+      "stop" : 1625331457088,
+      "duration" : 4821
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.101" ]
+  } ]
+}

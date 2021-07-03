@@ -1,0 +1,97 @@
+{
+  "uid" : "1f32b54152239edd",
+  "name" : "Then I shall be on the Flight Finder page",
+  "fullName" : "Perform login: Login with default user.Then I shall be on the Flight Finder page",
+  "historyId" : "fbd25c9bb4dd1e2d8221dc0913a033f7",
+  "time" : {
+    "start" : 1625328960996,
+    "stop" : 1625328961007,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1625328960997,
+        "stop" : 1625328961005,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3bb073572e63da06",
+        "name" : "Response",
+        "source" : "3bb073572e63da06.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I shall be on the Flight Finder page"
+  }, {
+    "name" : "package",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.101"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f93e931d9e2c51d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328686597,
+        "stop" : 1625328686631,
+        "duration" : 34
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f32b54152239edd.json",
+  "parameterValues" : [ "chrome-91.0.4472.101" ]
+}

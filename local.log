@@ -1,0 +1,12 @@
+"" 
+
+Thu Jun 17 2021 22:03:18 GMT+0100 (British Summer Time) -- ***
+Thu Jun 17 2021 22:03:18 GMT+0100 (British Summer Time) -- Setting the --only-automate parameter will stop local testing via command line from working with BrowserStack Live and BrowserStack Screenshots.
+Thu Jun 17 2021 22:03:18 GMT+0100 (British Summer Time) -- To enable local testing via the command line for Live and Screenshots, rerun BrowserStackLocal without --only-automate.
+Thu Jun 17 2021 22:03:18 GMT+0100 (British Summer Time) -- ***
+
+Thu Jun 17 2021 22:03:35 GMT+0100 (British Summer Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Thu Jun 17 2021 22:03:36 GMT+0100 (British Summer Time) -- Press Ctrl-C to exit
+
+

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 03 17:15:59 BST 2021","Sat Jul 03 17:16:00 BST 2021","1240","","Perform login: Login with default user","","Perform login: Login with default user","When I log in with a default user","When I log in with a default user",""
+"passed","Sat Jul 03 17:15:55 BST 2021","Sat Jul 03 17:15:59 BST 2021","4220","","Perform login: Login with default user","","Perform login: Login with default user","Given I'm on the login page","Given I'm on the login page",""
+"passed","Sat Jul 03 17:16:00 BST 2021","Sat Jul 03 17:16:01 BST 2021","11","","Perform login: Login with default user","","Perform login: Login with default user","Then I shall be on the Flight Finder page","Then I shall be on the Flight Finder page",""
+"passed","Sat Jul 03 17:57:32 BST 2021","Sat Jul 03 17:57:37 BST 2021","4821","","Perform login","","Perform login","Login with default user","Login with default user",""
+"passed","Sat Jul 03 17:16:01 BST 2021","Sat Jul 03 17:16:01 BST 2021","0","","Perform login: Login with default user","","Perform login: Login with default user","","",""

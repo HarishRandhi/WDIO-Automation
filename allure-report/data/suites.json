@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Perform login: Login with default user",
+    "children" : [ {
+      "name" : "Given I'm on the login page",
+      "uid" : "fdcc469eda47e7e0",
+      "parentUid" : "9cdbf48e58cc72d7878a3dd75a249e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328955535,
+        "stop" : 1625328959755,
+        "duration" : 4220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.101" ]
+    }, {
+      "name" : "When I log in with a default user",
+      "uid" : "35f5bdc0dfe5d2c8",
+      "parentUid" : "9cdbf48e58cc72d7878a3dd75a249e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328959755,
+        "stop" : 1625328960995,
+        "duration" : 1240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.101" ]
+    }, {
+      "name" : "Then I shall be on the Flight Finder page",
+      "uid" : "1f32b54152239edd",
+      "parentUid" : "9cdbf48e58cc72d7878a3dd75a249e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328960996,
+        "stop" : 1625328961007,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.101" ]
+    }, {
+      "name" : "",
+      "uid" : "7cb4269273bb423f",
+      "parentUid" : "9cdbf48e58cc72d7878a3dd75a249e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328961007,
+        "stop" : 1625328961007,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.101" ]
+    } ],
+    "uid" : "9cdbf48e58cc72d7878a3dd75a249e95"
+  }, {
+    "name" : "Perform login",
+    "children" : [ {
+      "name" : "Login with default user",
+      "uid" : "cef393732c4867d1",
+      "parentUid" : "da248db96f27d51bcb0f790fe3630242",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625331452267,
+        "stop" : 1625331457088,
+        "duration" : 4821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.101" ]
+    } ],
+    "uid" : "da248db96f27d51bcb0f790fe3630242"
+  } ]
+}

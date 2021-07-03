@@ -1,0 +1,82 @@
+{
+  "uid" : "7cb4269273bb423f",
+  "name" : "",
+  "fullName" : "Perform login: Login with default user.",
+  "historyId" : "70028883bc9d1e00865c462dcce837a1",
+  "time" : {
+    "start" : 1625328961007,
+    "stop" : 1625328961007,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Perform login: Login with default user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.101"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a05d8980f17e5cfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328955531,
+        "stop" : 1625328955535,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "c7be057ecd1dc53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328686633,
+        "stop" : 1625328686638,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "5566ae182e7ca5c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625328678648,
+        "stop" : 1625328678655,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cb4269273bb423f.json",
+  "parameterValues" : [ "chrome-91.0.4472.101" ]
+}
