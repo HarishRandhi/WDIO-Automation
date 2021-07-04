@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Perform login" timestamp="2021-07-04T11:51:17" time="36.263" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Perform login"/>
+      <property name="capabilities" value="chrome.91_0_4472_101.windows"/>
+      <property name="featureFile" value=".\features\login2.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.91_0_4472_101.windows.Perform login" name="Login with default user" time="35.688">
+      <system-out><![CDATA[
+✅ Given I'm on the login page✅ When I log in with a default user✅ Then I shall be on the Flight Finder page
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -136,9 +136,14 @@ exports.config = {
             useCucumberStepReporter:true,
         }],
         [
-            'junit', {
-            outputDir: './report'
-        }]
+            'junit',
+            {
+                outputDir: './report',
+                outputFileFormat: function (options) {
+                    return `results-${new Date().getTime()}.xml`;
+                },
+            },
+        ],
     ],
 
 

@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1625395877047' stop='1625395913305'>
+    <name>Perform login</name>
+    <title>Perform login</title>
+    <test-cases>
+        <test-case start='1625395877615' status='passed' stop='1625395913304'>
+            <name>Login with default user</name>
+            <title>Login with default user</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.101'/>
+            </parameters>
+            <steps>
+                <step start='1625395877618' status='passed' stop='1625395910999'>
+                    <name>Given I'm on the login page</name>
+                    <title>Given I'm on the login page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1625395910999' status='passed' stop='1625395913026'>
+                    <name>When I log in with a default user</name>
+                    <title>When I log in with a default user</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1625395913027' status='passed' stop='1625395913302'>
+                    <name>Then I shall be on the Flight Finder page</name>
+                    <title>Then I shall be on the Flight Finder page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
